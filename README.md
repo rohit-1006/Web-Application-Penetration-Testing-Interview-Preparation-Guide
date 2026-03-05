@@ -2,16 +2,6 @@
 
 ---
 
-## 📋 TABLE OF CONTENTS
-
-1. [Study Framework & Timeline](https://www.notion.so/Complete-Web-Application-Penetration-Testing-Interview-Preparation-Guide-2025-2026-319f227bf0f180d69beeed34b22f1c7a?pvs=21)
-2. [Topic-by-Topic Deep Dive](https://www.notion.so/Complete-Web-Application-Penetration-Testing-Interview-Preparation-Guide-2025-2026-319f227bf0f180d69beeed34b22f1c7a?pvs=21)
-3. [Lab Setup & Practice](https://www.notion.so/Complete-Web-Application-Penetration-Testing-Interview-Preparation-Guide-2025-2026-319f227bf0f180d69beeed34b22f1c7a?pvs=21)
-4. [Interview Strategy](https://www.notion.so/Complete-Web-Application-Penetration-Testing-Interview-Preparation-Guide-2025-2026-319f227bf0f180d69beeed34b22f1c7a?pvs=21)
-5. [Resources & Tools](https://www.notion.so/Complete-Web-Application-Penetration-Testing-Interview-Preparation-Guide-2025-2026-319f227bf0f180d69beeed34b22f1c7a?pvs=21)
-
----
-
 # PHASE 0: STUDY FRAMEWORK & TIMELINE
 
 ## (12-Week Intensive Plan)
